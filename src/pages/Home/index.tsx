@@ -52,7 +52,7 @@ export const Home: React.FC = () => {
     };
 
     fetchCats();
-  }, [page, openSnackbar]);
+  }, [page]);
 
   useEffect(() => {
     getFavouriteCats();

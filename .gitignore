@@ -57,3 +57,4 @@ metrics.txt
 # Serverless
 .serverless
 .webpack
+.idea/*
