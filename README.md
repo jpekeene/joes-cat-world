@@ -1,3 +1,8 @@
+# Setup env vars
+
+Copy .env.example file to .env then paste in the api key in my email.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
